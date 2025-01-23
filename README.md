@@ -1,5 +1,10 @@
 ### Hi there 👋 My name is Justin Singh
 
+I am an avid consumer of all things Cybersecurity!
+
+- 🔭 I’m currently working on CompTIA A+, Network +, and Security + Certifications
+- 🌱 I’m currently learning about Business IT and Program Management 
+- 🤔 I’m looking for help with Exam prep for CCNA and Python +
 <!--
 **SinghsForge/SinghsForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
